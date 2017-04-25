@@ -38,8 +38,8 @@ Make a Suggestion
 Fork and improve site
 true
 true
-This guide is created and maintained by the 
-TeachOSM community. You can help us improve this guide by simply sending your feedback via email to: info [at] teachosm.org, or by contributing directly to the [Github](http://github.com/osmlab/teachosm) repository.
-#Layouts/Default.html - How would you like your language to appear in the 'switcher' for instance 'German' or 'Deutsch' - replace the word English below with your choice of how your language will appear;
+This guide is created and maintained by the TeachOSM community. You can help us improve this guide by simply sending your feedback via email to: info [at] teachosm.org, or by contributing directly to the [Github](http://github.com/osmlab/teachosm) repository.
+#
+# Layouts/Default.html - How would you like your language to appear in the 'switcher' for instance 'German' or 'Deutsch' - replace the word English below with your choice of how your language will appear;
 English
 
