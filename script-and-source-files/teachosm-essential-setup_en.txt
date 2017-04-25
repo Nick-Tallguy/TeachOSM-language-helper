@@ -31,19 +31,15 @@ Resources
 Translation Status
 #
 # From 0100-01-01-contribute.md
----
-layout: contribute
-permalink: /en/contribute/
-lang: en
-title: Contribute
-contributetitle: Help improve our guides
-startwith: "Ready to get started?"
-startA: Send us feedback
-startB: Make a Suggestion
-startC: Fork and improve site
-nosearch: true
-published: true
----
-
+Help improve our guides
+Ready to get started?
+Send us feedback
+Make a Suggestion
+Fork and improve site
+true
+true
 This guide is created and maintained by the 
 TeachOSM community. You can help us improve this guide by simply sending your feedback via email to: info [at] teachosm.org, or by contributing directly to the [Github](http://github.com/osmlab/teachosm) repository.
+#Layouts/Default.html - How would you like your language to appear in the 'switcher' for instance 'German' or 'Deutsch' - replace the word English below with your choice of how your language will appear;
+English
+
